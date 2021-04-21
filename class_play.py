@@ -7,3 +7,6 @@ class Pacient(object):
         self.n = name
         self.a = age
         self.conditions = []
+    def get_details(self):
+        pass
+
