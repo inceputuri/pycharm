@@ -1,0 +1,9 @@
+.idea
+
+class Pacient(object):
+    """help detail..."""
+    status = 'pacient in spital'
+    def __init__(self, name, age):
+        self.n = name
+        self.a = age
+        self.conditions = []
