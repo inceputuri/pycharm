@@ -15,4 +15,4 @@ class Pacient(object):
         pass
     def get_details_master(self):
         print('conflict')
-    x = 4
+    x = 5
