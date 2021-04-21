@@ -14,5 +14,5 @@ class Pacient(object):
     def get_details_gitBub(self):
         pass
     def get_details_master(self):
-        pass
+        print('conflict')
 
