@@ -9,4 +9,7 @@ class Pacient(object):
         self.conditions = []
     def get_details(self):
         pass
+    def get_details_dev(self):
+        pass
+
 
