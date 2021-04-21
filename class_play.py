@@ -11,5 +11,6 @@ class Pacient(object):
         pass
     def get_details_dev(self):
         pass
-
+    def get_details_gitBub(self):
+        pass
 
